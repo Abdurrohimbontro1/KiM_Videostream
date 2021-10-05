@@ -27,7 +27,7 @@ Telegram Bot  [KIM VIDEO BOT](https://t.me/kimvideo_bot) bot yang di gunakan unt
 1. `API_ID` : Akun Pengguna Telegram API_ID, dapatkan dari https://my.telegram.org
 2. `API_HASH` : Akun Pengguna Telegram API_HASH, dapatkan dari https://my.telegram.org
 3. `BOT_TOKEN` : Token Bot Telegram Anda, dapatkan dari [@Botfather](https://t.me/botfather) XD
-4. `SESSION_STRING` : Pyrogram Session String Akun Pengguna, dapatkan dari [![GenerateStringSession](https://img.shields.io/badge/repl.it-GenerateStringSession-yellowgreen)](https://replit. com/@abdurrohimbomtr/GenerateStringSession)
+4. `SESSION_STRING` : Pyrogram Session String Akun Pengguna, dapatkan dari [![GenerateStringSession](https://img.shields.io/badge/repl.it-GenerateStringSession-yellowgreen)](https://replit.com/@abdurrohimbontr/kim-1?v=1)
 5. `CHAT_ID` : ID Saluran atau Grup tempat bot akan melakukan streaming video.
 6. `LOG_GROUP` : Grup untuk mengirim Daftar Putar, jika CHAT_ID adalah Grup.
 7. `AUTH_USERS` : ID Pengguna yang dapat menggunakan perintah Admin (untuk beberapa pengguna yang dipisahkan oleh spasi).
@@ -42,7 +42,7 @@ Telegram Bot  [KIM VIDEO BOT](https://t.me/kimvideo_bot) bot yang di gunakan unt
 - Python 3.6 or Higher.
 - Latest [FFmpeg](https://www.ffmpeg.org/).
 - [Telegram API Key](https://docs.pyrogram.org/intro/quickstart#enjoy-the-api).
-- Pyrogram [String Session](https://replit.com/@abdurrhimbontr/GenerateStringSession) Of The Account.
+- Pyrogram [String Session](https://replit.com/@abdurrohimbontr/kim-1?v=1) Of The Account.
 - The User Account Needs To Be An Admin In The Group / Channel.
 
 ## Self Host
